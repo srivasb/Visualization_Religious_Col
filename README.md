@@ -3,7 +3,7 @@ ________
 
 # Religious Events or Traditions
 
- Answer a question with the broad topic of **religious events or traditions** for the region of **Bogotá, Bogota D.C., Colombia**, or **Colombia** more broadly.  
+ Answer the question about **religious events or traditions** for the region of **Bogotá, Bogota D.C., Colombia**, and **Colombia** more broadly.  
 
 ______   
 
